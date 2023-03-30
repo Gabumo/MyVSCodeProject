@@ -1,0 +1,15 @@
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.csproj.AssemblyReference.cache
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.AssemblyInfoInputs.cache
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.AssemblyInfo.cs
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\gabmo\MyVSCodeProject\bin\Debug\net7.0\MyVSCodeProject.exe
+C:\Users\gabmo\MyVSCodeProject\bin\Debug\net7.0\MyVSCodeProject.deps.json
+C:\Users\gabmo\MyVSCodeProject\bin\Debug\net7.0\MyVSCodeProject.runtimeconfig.json
+C:\Users\gabmo\MyVSCodeProject\bin\Debug\net7.0\MyVSCodeProject.dll
+C:\Users\gabmo\MyVSCodeProject\bin\Debug\net7.0\MyVSCodeProject.pdb
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.dll
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\refint\MyVSCodeProject.dll
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.pdb
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\MyVSCodeProject.genruntimeconfig.cache
+C:\Users\gabmo\MyVSCodeProject\obj\Debug\net7.0\ref\MyVSCodeProject.dll
