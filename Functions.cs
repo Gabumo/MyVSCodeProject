@@ -16,8 +16,8 @@ namespace MyVSCodeProject{
        
     public static void AfficherLesPerimetres()
     {
-        double perimetreCarre = CalculerPerimetreCarre(5);
-        double perimetreCercle = CalculerPerimetreCercle(5);
+        double perimetreCarre = CalculerPerimetreCarre(6);
+        double perimetreCercle = CalculerPerimetreCercle(6);
         Console.WriteLine("Le périmètre du carré est de " + perimetreCarre);
         Console.WriteLine("Le périmètre du cercle est de " + perimetreCercle);
     }
